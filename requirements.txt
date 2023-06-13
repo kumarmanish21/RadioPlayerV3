@@ -11,3 +11,6 @@ youtube_search_python
 pytgcalls==3.0.0.dev21
 git+https://github.com/asmsafone/downloader
 git+https://github.com/asmsafone/pyrogram@master
+Flask==2.2.2
+gunicorn==20.1.0
+aiohttp==3.8.1
